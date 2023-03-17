@@ -33,3 +33,5 @@ This plugin will allow you to insert a popup for the keyword specified in the co
 ### Installation:
 You must install ProtocolLIb first, then you just put Item2Chat.jar file into your server's plugins folder.  If you wish to use placeholders (supported by PlaceholderAPI) in the prefix, please install PlaceholderAPI as well.
 
+### Old and new release:
+You can get available old release and the most recent release at https://polymart.org/resource/item2chat.215.
