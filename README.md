@@ -9,8 +9,16 @@ This plugin will allow you to insert a popup for the keyword specified in the co
 ### Sample Images:
 
 #### With RGB support:
+![RGB support](./images/rgb_image.png?raw=true "RGB support")
 
-[MEDIA=youtube]mEJR4ZLRVdg[/MEDIA]
+#### Video demo:
+[![Demo](https://img.youtube.com/vi/mEJR4ZLRVdg/0.jpg)](https://youtu.be/mEJR4ZLRVdg)
+
+#### Sample screenshots:
+![RGB support](./images/item_keyword.png?raw=true "Keyword")![RGB support](./images/chat_image0.png?raw=true "Lapis")
+![RGB support](./images/tooltip.png?raw=true "Tooltip")
+
+![RGB support](./images/chat_image.png?raw=true "dpick")![RGB support](./images/enchant_list.png?raw=true "list")
 
 ### Command:
  * /item2chat help : displays the help menu
